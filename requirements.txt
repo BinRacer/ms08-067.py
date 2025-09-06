@@ -1,0 +1,2 @@
+impacket==0.12
+pwntools==4.14.1
